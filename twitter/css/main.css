@@ -27,7 +27,8 @@ body{
 .tweets{
     margin:0 auto;
     border:1px solid rgb(230, 236, 240);
-    width:600px;
+    min-width: 300px;
+    max-width:600px;
 }
 
 .container{
@@ -149,10 +150,11 @@ body{
     font-size:13px;
 }
 
-.tweet_header{
+.tweet__header{
     display:flex;
     justify-content: space-between;
-    align-items:cetner;
+    align-items:center;
+   
 }
 
 .tweet__header-title{
