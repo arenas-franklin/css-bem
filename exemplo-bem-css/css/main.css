@@ -1,0 +1,14 @@
+body,
+html{
+    margin:0;
+    height: 100vh;
+
+}
+
+body{
+    background:#eee;
+    height: 100vh;
+    display:grid;
+    place-content:center;
+    font-family:sans-serif;
+}
