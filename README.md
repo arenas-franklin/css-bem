@@ -3,7 +3,7 @@
 
 
 ## Atomic Design 
-metodo de componização mais profunda, utiliza modelo atomico como se foosse um atomo
+Metodo de componização mais profunda, utiliza modelo atomico como se fosse um átomo.
 
 **Átomos:** São os elementos mais simples: button, input, slider, text etc..
 
